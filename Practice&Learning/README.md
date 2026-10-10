@@ -1,9 +1,5 @@
 # Practice & Learning
 
-This folder contains my **API practice files (Python)**.
+This folder contains my **APIs devlopment practice files**.
 
-Here I practiced:
-- Sending requests using Python's `requests` library
-- Authentication
-- Rate limits
-- Other important API concepts
+Here I will be uploading my practice files
